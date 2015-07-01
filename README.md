@@ -22,13 +22,11 @@ Load the script files in your application:
 <script type="text/javascript" src="bower_components/angular-ui-event/ui-event.js"></script>
 ```
 
-Add the specific modules to your dependencies, or add the entire lib by depending on `ui.utils`
+Add the specific module to your dependencies:
 
 ```javascript
 angular.module('myApp', ['ui.event', ...])
 ```
-
-Each directive and filter is now it's own module and will have a relevant README.md in their respective folders
 
 ## Development
 

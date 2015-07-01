@@ -2,7 +2,7 @@
   "author": "AngularUI Team",
   "name": "angular-ui-event",
   "homepage": "https://github.com/angular-ui/ui-event",
-  "main": "./src/event.js",
+  "main": "./dist/event.js",
   "license": "MIT",
   "dependencies": {
     "angular": ">= 1.0.5"

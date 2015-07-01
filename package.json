@@ -1,7 +1,7 @@
 {
   "name": "angular-ui-event",
   "version": "1.0.0",
-  "author": "https://github.com/angular-ui/ui-utils/graphs/contributors",
+  "author": "https://github.com/angular-ui/ui-event/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/angular-ui/ui-event",
   "dependencies": {},
@@ -27,7 +27,7 @@
     "karma-coverage": "~0.2"
   },
   "scripts": {},
-  "main": "./src/event.js",
+  "main": "./dist/event.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/angular-ui/ui-event.git"
