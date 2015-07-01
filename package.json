@@ -31,5 +31,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/angular-ui/ui-event.git"
-  }
+  },
+  "keywords": [
+    "angular",
+    "angular-ui",
+    "event"
+  ]
 }
