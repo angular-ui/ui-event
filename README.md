@@ -1,5 +1,7 @@
 # ui-event [![Build Status](https://travis-ci.org/angular-ui/ui-event.svg?branch=master)](https://travis-ci.org/angular-ui/ui-event) [![npm version](https://badge.fury.io/js/angular-ui-event.svg)](http://badge.fury.io/js/angular-ui-event) [![Bower version](https://badge.fury.io/bo/angular-ui-event.svg)](http://badge.fury.io/bo/angular-ui-event) [![Join the chat at https://gitter.im/angular-ui/ui-event](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular-ui/ui-event?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/angular-ui/ui-event](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular-ui/ui-event?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bind a callback to any event not natively supported by Angular. For Blurs, Focus, Double-Clicks or any other event you may choose that isn't built-in.
 
 ## Requirements
