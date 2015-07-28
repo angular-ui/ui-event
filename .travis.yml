@@ -1,4 +1,3 @@
----
 language: node_js
 node_js:
 - '0.10'
@@ -14,7 +13,8 @@ before_install:
 script: gulp
 deploy:
   provider: npm
-  email: "adrien.crivelli@gmail.com"
-  api_key: "cG93ZXJraWtpOmZZeFJBam94QUNiaFhxUUR1cGQ2eXNRTWI="
+  email: adrien.crivelli@gmail.com
+  api_key:
+    secure: m+ReFwLpd1e+j6RNPZknr3CmnwJLS0ocJtlHU/vYZd/vGyDDDXFm25OXuXkcOdTx8aito2hXsaCoZjTNt3gEMPLExsQvjFc794LytzexDOjNYqCvZcKDfp6X5cuUBJgla+gpZT8ILrzaJSZxnIvJpCCkSBmksef5FjzDF4P/B4ixZUzxJPvPt40ftyKuKzV7cVYvziKb3Vg3U0IPCGZfqvqW7868ah23tkQawP6bFDBCw6oF8Xm8jMJgQW97DajzYiSbTWN/Dns9isRu3T81xBFyN/RuO4Xu/slgOnVkcqG7T9QepOGgc4HGdszKdZWoy2jaf6e5tSPPCf9MPY4rLh/eKlY+6gVUHfGLewIfRIYhD6aYz8DmbLL4UoV4LKyyflKFToVYplIrO//KNQIhCY+n2Zcoc4Y7HDr3/+wupDoUetKBY73C889C0/awidpbb2mpW1noDXrVN+PYyDofwySJVfFNgbffjozLq+CwJODGe5pnL41MG2kbJWxdxv1gqIhV94PPyp/pId91JUSbhNtH+cjhoee/jM6XgDvtBd0nN7Ar6g1ZgTTQhTvQZsiv7YsV1f6NS6a1fSDvjuF+E34Mx0nGQP2QCp8JV/OBx7IcXxYbonAkqR/8ObRcZeDy/ML211IOHcYBPIdxrD8Aaw35VfjMGuw05buO0Xm5pbw=
   on:
     tags: true
